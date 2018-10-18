@@ -11,6 +11,8 @@
 |
 */
 
+Route::any('/webhooks','GitWebhookController@pull');
+
 Route::get('/','Web\AppController@getApp')->middleware('auth');
 
 Route::get('/login','Web\AppController@getLogin')->name('login')->middleware('guest');
