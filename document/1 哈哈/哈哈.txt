@@ -1,19 +1,19 @@
-{
+[2018 - 10 - 18 03: 41: 57] local.INFO: {
 	"ref": "refs\/heads\/master",
-	"before": "760009d569021d02aa6a5cc3f1af40237ac4a5ed",
-	"after": "bf6f1f6ccd6185b6470cc84d97a2642611913482",
+	"before": "bf6f1f6ccd6185b6470cc84d97a2642611913482",
+	"after": "24aa2f0480ddec349c04964b71115ad55f3d8776",
 	"created": false,
 	"deleted": false,
 	"forced": false,
 	"base_ref": null,
-	"compare": "https:\/\/github.com\/lmq1117\/lv\/compare\/760009d56902...bf6f1f6ccd61",
+	"compare": "https:\/\/github.com\/lmq1117\/lv\/compare\/bf6f1f6ccd61...24aa2f0480dd",
 	"commits": [{
-		"id": "bf6f1f6ccd6185b6470cc84d97a2642611913482",
-		"tree_id": "bc3f905190aed5ae0db7dcf09b1879c0a9e9184c",
+		"id": "24aa2f0480ddec349c04964b71115ad55f3d8776",
+		"tree_id": "a754d164fa9944bf3cc6653c277e54426bd680ac",
 		"distinct": true,
-		"message": "3",
-		"timestamp": "2018-10-18T11:37:36+08:00",
-		"url": "https:\/\/github.com\/lmq1117\/lv\/commit\/bf6f1f6ccd6185b6470cc84d97a2642611913482",
+		"message": "push event",
+		"timestamp": "2018-10-18T11:41:48+08:00",
+		"url": "https:\/\/github.com\/lmq1117\/lv\/commit\/24aa2f0480ddec349c04964b71115ad55f3d8776",
 		"author": {
 			"name": "limq",
 			"email": "limq@cgnfs.com.cn"
@@ -27,12 +27,12 @@
 		"modified": ["document\/1 哈哈\/哈哈.txt"]
 	}],
 	"head_commit": {
-		"id": "bf6f1f6ccd6185b6470cc84d97a2642611913482",
-		"tree_id": "bc3f905190aed5ae0db7dcf09b1879c0a9e9184c",
+		"id": "24aa2f0480ddec349c04964b71115ad55f3d8776",
+		"tree_id": "a754d164fa9944bf3cc6653c277e54426bd680ac",
 		"distinct": true,
-		"message": "3",
-		"timestamp": "2018-10-18T11:37:36+08:00",
-		"url": "https:\/\/github.com\/lmq1117\/lv\/commit\/bf6f1f6ccd6185b6470cc84d97a2642611913482",
+		"message": "push event",
+		"timestamp": "2018-10-18T11:41:48+08:00",
+		"url": "https:\/\/github.com\/lmq1117\/lv\/commit\/24aa2f0480ddec349c04964b71115ad55f3d8776",
 		"author": {
 			"name": "limq",
 			"email": "limq@cgnfs.com.cn"
@@ -114,8 +114,8 @@
 		"releases_url": "https:\/\/api.github.com\/repos\/lmq1117\/lv\/releases{\/id}",
 		"deployments_url": "https:\/\/api.github.com\/repos\/lmq1117\/lv\/deployments",
 		"created_at": 1539742799,
-		"updated_at": "2018-10-18T03:35:05Z",
-		"pushed_at": 1539833863,
+		"updated_at": "2018-10-18T03:37:45Z",
+		"pushed_at": 1539834116,
 		"git_url": "git:\/\/github.com\/lmq1117\/lv.git",
 		"ssh_url": "git@github.com:lmq1117\/lv.git",
 		"clone_url": "https:\/\/github.com\/lmq1117\/lv.git",
